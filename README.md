@@ -8,7 +8,7 @@ Multi-model comparison and validation
 
 Model Performance
 Gaussian Naive Bayes (First Implementation)
-CopyAccuracy: 96.63%
+-Accuracy: 96.63%
 Precision:
 - Normal Traffic: 98%
 - Attacks: 45%
@@ -17,7 +17,7 @@ F1-Score:
 - Attacks: 34%
   
 Gaussian Naive Bayes (Optimized)
-Accuracy: 99.93%
+-Accuracy: 99.93%
 Precision:
 - Normal Traffic: 97%
 - Attacks: 45%
@@ -26,7 +26,7 @@ F1-Score:
 - Attacks: 33%
   
 K-Nearest Neighbors
-Accuracy: 98.35%
+-Accuracy: 98.35%
 Precision:
 - Normal Traffic: 99%
 - Attacks: 90%
